@@ -61,10 +61,8 @@ nav ul li a::before {
     justify-content: center;
     align-items: center;
     gap: 50px;
-    width: 80%;
-    border-radius: 1%;
+    height: 80vh;
     margin: auto;
-    margin-top: 20px;
   }
 
 .heroBox{
@@ -127,11 +125,12 @@ nav ul li a::before {
   }
 
   .heroImg{
-    width: 2000px;
-
+    width: 900px;
+    height: 600px;
   }
 
   .heroImg img{
     width:100%;
     height:auto;  
+    border: solid white;
   }
